@@ -15,4 +15,4 @@ Analyzed Human Hemoglobin Beta (HBB) gene (147 aa) to identify the mutation caus
 - Disease: Sickle-shaped RBCs cause blockage and pain
 
 ## Author
-Reena Bairagi - Bioinformatics Student, Mauganj (M.P.)
+Reena Bairagi - Bioinformatics Student, Neemuch (M.P.)
